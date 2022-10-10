@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮Dark NERO MD 2022 ®️ALL RIGHTS RESERVED
+//▮฿Ⱡ₳₵₭ ₵₳₮ MD 2022 ®️ALL RIGHTS RESERVED
 //▮ 
 
 //▮
@@ -31,9 +31,9 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg =`HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️
+global.alivemsg =`HI I'M  ⚜️฿Ⱡ₳₵₭ ₵₳₮ 𝘔𝘋⚜️
                     
-		   KAVEESHA MD📌 `
+		   QUEEN MD📌 `
                      
 
 
@@ -43,14 +43,14 @@ global.alivemsg =`HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️
 global.alivepic = `https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg `//you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.ownername = " ฿Ⱡ₳₵₭ ₵₳₮ " //ur owner name
+global.owner = ['33781043539','33781043539']
+global.premium = ['33781043539','33781043539']
+global.botname = '฿Ⱡ₳₵₭ ₵₳₮'
+global.ownername = '฿Ⱡ₳₵₭ ₵₳₮'
+global.group1 = 'https://chat.whatsapp.com/CnYKWtIAQuXFmg4oqXqhby'
+global.group2 = 'https://chat.whatsapp.com/CnYKWtIAQuXFmg4oqXqhby'
+global.packname = '฿Ⱡ₳₵₭ ₵₳₮'
 global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -72,7 +72,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.author = '฿Ⱡ₳₵₭ ₵₳₮'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -87,7 +87,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait DARK NERO BOT processing okay*',
+    wait: '*whoa wait ฿Ⱡ₳₵₭ ₵₳₮ processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
